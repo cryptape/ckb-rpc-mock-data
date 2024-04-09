@@ -1,0 +1,22 @@
+{
+  "id": 42,
+  "jsonrpc": "2.0",
+  "method": "get_cells",
+  "params": [
+    {
+      "script": {
+        "code_hash": "0x102583443ba6cfe5a3ac268bbb4475fb63eb497dce077f126ad3b148d4f4f8f8",
+        "hash_type": "type",
+        "args": "0x02"
+      },
+      "script_type": "type",
+      "filter": {
+        "output_data": "0x01",
+        "output_data_filter_mode": "prefix"
+      }
+    },
+    "asc",
+    "0xff",
+    null
+  ]
+}

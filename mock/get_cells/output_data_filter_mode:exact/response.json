@@ -1,0 +1,31 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "last_cursor": "0x60102583443ba6cfe5a3ac268bbb4475fb63eb497dce077f126ad3b148d4f4f8f8010200000000000004750000000100000000",
+    "objects": [
+      {
+        "block_number": "0x475",
+        "out_point": {
+          "index": "0x0",
+          "tx_hash": "0xa1f7e1033f98e68f53d09f8676b00ba3fbb32c15a956a49ae21f6f05f72c5674"
+        },
+        "output": {
+          "capacity": "0x2ecbd3c412",
+          "lock": {
+            "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d5",
+            "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+            "hash_type": "type"
+          },
+          "type": {
+            "args": "0x02",
+            "code_hash": "0x102583443ba6cfe5a3ac268bbb4475fb63eb497dce077f126ad3b148d4f4f8f8",
+            "hash_type": "type"
+          }
+        },
+        "output_data": "0x0303",
+        "tx_index": "0x1"
+      }
+    ]
+  },
+  "id": 42
+}
