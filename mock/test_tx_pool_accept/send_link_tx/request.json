@@ -1,0 +1,49 @@
+{
+    "id": 42,
+    "jsonrpc": "2.0",
+    "method": "test_tx_pool_accept",
+    "params": [
+        {
+            "version": "0x0",
+            "cell_deps": [
+                {
+                    "out_point": {
+                        "tx_hash": "0x5f84f5252197cd3e7c4f6d07d4164e9867d6d83a667fdc7d344e6d709c08ddfe",
+                        "index": "0x0"
+                    },
+                    "dep_type": "dep_group"
+                }
+            ],
+            "header_deps": [
+
+            ],
+            "inputs": [
+                {
+                    "since": "0x0",
+                    "previous_output": {
+                        "tx_hash": "0xd0a2bcae97dc9e84c4f506420322b453b999d302bf9dd10bb497c77ce5b2569e",
+                        "index": "0x0"
+                    }
+                }
+            ],
+            "outputs": [
+                {
+                    "capacity": "0x9184e40389a",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                }
+            ],
+            "outputs_data": [
+                "0x"
+            ],
+            "witnesses": [
+                "0x5500000010000000550000005500000041000000f8a06565f11cb29468f63c78411132942ee8c6f3944345f51ae55de4b1373e107b121d54e2307c91fca9694acb738a50044b254973407ac81360c3b099ba39ff00"
+            ]
+        },
+        "passthrough"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "jsonrpc": "2.0",
+  "error": {
+      "code": -1107,
+      "message": "PoolRejectedDuplicatedTransaction: Transaction(Byte32(0x39c7ca0ec7dfad11bfe921f6d35e9dbdfab46776afe0a9c3f667d366cd43f374)) already exists in transaction_pool",
+      "data": "Duplicated(Byte32(0x39c7ca0ec7dfad11bfe921f6d35e9dbdfab46776afe0a9c3f667d366cd43f374))"
+  },
+  "id": 42
+}

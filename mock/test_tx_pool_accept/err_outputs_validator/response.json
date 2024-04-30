@@ -1,0 +1,8 @@
+{
+  "jsonrpc": "2.0",
+  "error": {
+      "code": -32602,
+      "message": "Invalid parameter for `outputs_validator`: unknown variant `other`, expected `passthrough` or `well_known_scripts_only`"
+  },
+  "id": 42
+}

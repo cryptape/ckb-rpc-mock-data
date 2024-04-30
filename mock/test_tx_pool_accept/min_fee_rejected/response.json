@@ -1,0 +1,9 @@
+{
+  "jsonrpc": "2.0",
+  "error": {
+      "code": -1104,
+      "message": "PoolRejectedTransactionByMinFeeRate: The min fee rate is 1000 shannons/KW, requiring a transaction fee of at least 1881 shannons, but the fee provided is only 25",
+      "data": "LowFeeRate(FeeRate(1000), 1881, 25)"
+  },
+  "id": 42
+}
