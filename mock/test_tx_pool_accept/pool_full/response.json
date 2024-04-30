@@ -1,0 +1,8 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+      "cycles": "0x1a28f1",
+      "fee": "0xf1f18"
+  },
+  "id": 42
+}

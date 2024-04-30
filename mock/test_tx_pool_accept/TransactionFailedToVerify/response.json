@@ -1,0 +1,9 @@
+{
+  "jsonrpc": "2.0",
+  "error": {
+      "code": -302,
+      "message": "TransactionFailedToVerify: Verification failed Script(TransactionScriptError { source: Inputs[0].Lock, cause: ValidationFailure: see error code -2 on page https://nervosnetwork.github.io/ckb-script-error-codes/by-type-hash/9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8.html#-2 })",
+      "data": "Verification(Error { kind: Script, inner: TransactionScriptError { source: Inputs[0].Lock, cause: ValidationFailure: see error code -2 on page https://nervosnetwork.github.io/ckb-script-error-codes/by-type-hash/9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8.html#-2 }\n\nStack backtrace:\n   0: std::backtrace::Backtrace::capture\n   1: anyhow::error::<impl core::convert::From<E> for anyhow::Error>::from\n   2: ckb_tx_pool::util::verify_rtx::{{closure}}\n   3: ckb_tx_pool::util::verify_rtx\n   4: ckb_tx_pool::service::process::{{closure}}\n   5: ckb_async_runtime::Handle::spawn::{{closure}}\n   6: tokio::runtime::task::raw::poll\n   7: tokio::runtime::scheduler::multi_thread::worker::Context::run_task\n   8: tokio::runtime::scheduler::multi_thread::worker::run\n   9: tokio::runtime::task::raw::poll\n  10: std::sys_common::backtrace::__rust_begin_short_backtrace\n  11: core::ops::function::FnOnce::call_once{{vtable.shim}}\n  12: std::sys::unix::thread::Thread::new::thread_start\n  13: __pthread_deallocate })"
+  },
+  "id": 42
+}

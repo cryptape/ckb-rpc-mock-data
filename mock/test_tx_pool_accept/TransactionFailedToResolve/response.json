@@ -1,0 +1,9 @@
+{
+  "jsonrpc": "2.0",
+  "error": {
+      "code": -301,
+      "message": "TransactionFailedToResolve: Resolve failed Unknown(OutPoint(0x5f84f5252197cd3e7c4f6d07d4164e9867d6d83a667fdc7d344e6d709c08ddfe11000000))",
+      "data": "Resolve(Unknown(OutPoint(0x5f84f5252197cd3e7c4f6d07d4164e9867d6d83a667fdc7d344e6d709c08ddfe11000000)))"
+  },
+  "id": 42
+}

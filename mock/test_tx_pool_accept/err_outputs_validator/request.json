@@ -1,0 +1,189 @@
+{
+    "id": 42,
+    "jsonrpc": "2.0",
+    "method": "test_tx_pool_accept",
+    "params": [
+        {
+            "version": "0x0",
+            "cell_deps": [
+                {
+                    "out_point": {
+                        "tx_hash": "0x5f84f5252197cd3e7c4f6d07d4164e9867d6d83a667fdc7d344e6d709c08ddfe",
+                        "index": "0x0"
+                    },
+                    "dep_type": "dep_group"
+                }
+            ],
+            "header_deps": [
+
+            ],
+            "inputs": [
+                {
+                    "since": "0x0",
+                    "previous_output": {
+                        "tx_hash": "0xa653d466c10f1c5916e3d1acd6f2a77bd6b6aa5ec3d50878f4737148b718720f",
+                        "index": "0x0"
+                    }
+                }
+            ],
+            "outputs": [
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x9b386e06c2",
+                    "lock": {
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type",
+                        "args": "0xc8328aabcd9b9e8e64fbc566c4385c3bdeb219d7"
+                    },
+                    "type": null
+                }
+            ],
+            "outputs_data": [
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x",
+                "0x"
+            ],
+            "witnesses": [
+                "0x55000000100000005500000055000000410000001ef598f5f0f856f46017899ed23db5d5f86bb0a5f84e7c2049a8fa5813063e4638d723d021f44bbe1049fb845115c4695c9cfe1d9152c7fb429f0650cb57026301"
+            ]
+        },
+        "other"
+    ]
+}
