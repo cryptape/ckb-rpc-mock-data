@@ -1,0 +1,22 @@
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "cell": {
+            "data": {
+                "content": "0x",
+                "hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "output": {
+                "capacity": "0x2ecbd7f2fb",
+                "lock": {
+                    "args": "0x8883a512ee2383c01574a328f60eeccbb4d78240",
+                    "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                    "hash_type": "type"
+                },
+                "type": null
+            }
+        },
+        "status": "live"
+    },
+    "id": 42
+}
