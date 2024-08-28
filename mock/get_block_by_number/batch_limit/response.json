@@ -1,0 +1,8 @@
+{
+    "jsonrpc": "2.0",
+    "error": {
+        "code": -32602,
+        "message": "batch size is too large, expect it less than: 10"
+    },
+    "id": null
+}
