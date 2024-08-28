@@ -1,0 +1,69 @@
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "cycles": "0x19b6ef",
+        "fee": "0x2b8",
+        "min_replace_fee": "0x570",
+        "time_added_to_pool": "0x191970caec6",
+        "transaction": {
+            "cell_deps": [
+                {
+                    "dep_type": "dep_group",
+                    "out_point": {
+                        "index": "0x0",
+                        "tx_hash": "0x5f84f5252197cd3e7c4f6d07d4164e9867d6d83a667fdc7d344e6d709c08ddfe"
+                    }
+                }
+            ],
+            "hash": "0x43655f10761861d421b1f9251044cce8b69a76a8d27242ec58abb5495c119061",
+            "header_deps": [
+
+            ],
+            "inputs": [
+                {
+                    "previous_output": {
+                        "index": "0x0",
+                        "tx_hash": "0x1ed55dfc5703018d5d689e9282c79f44b3923576a8b684e6acfff50357d17a85"
+                    },
+                    "since": "0x0"
+                }
+            ],
+            "outputs": [
+                {
+                    "capacity": "0x2540be400",
+                    "lock": {
+                        "args": "0x8883a512ee2383c01574a328f60eeccbb4d78240",
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type"
+                    },
+                    "type": null
+                },
+                {
+                    "capacity": "0x2c77cc0c43",
+                    "lock": {
+                        "args": "0x8883a512ee2383c01574a328f60eeccbb4d78240",
+                        "code_hash": "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8",
+                        "hash_type": "type"
+                    },
+                    "type": null
+                }
+            ],
+            "outputs_data": [
+                "0x",
+                "0x"
+            ],
+            "version": "0x0",
+            "witnesses": [
+                "0x55000000100000005500000055000000410000003d83443640b839a2e910d87e97b574ed6f49b9b1420b77a1dad19adb2e95099f7b37dcbe93bf50b36ca26364d76d7f3ccb39e1d21ad2d15eb4de63eee29f8f9d00"
+            ]
+        },
+        "tx_status": {
+            "block_hash": null,
+            "block_number": null,
+            "reason": null,
+            "status": "pending",
+            "tx_index": null
+        }
+    },
+    "id": 42
+}

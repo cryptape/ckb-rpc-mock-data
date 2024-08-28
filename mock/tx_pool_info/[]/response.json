@@ -1,18 +1,19 @@
 {
-  "jsonrpc": "2.0",
-  "result": {
-    "last_txs_updated_at": "0x0",
-    "max_tx_pool_size": "0xaba9500",
-    "min_fee_rate": "0x3e8",
-    "min_rbf_rate": "0x5dc",
-    "orphan": "0x0",
-    "pending": "0x0",
-    "proposed": "0x0",
-    "tip_hash": "0x8e839a075ef1a25590b251c9d6dd2a753db035ca4a08553f7e521fc34e2806da",
-    "tip_number": "0xc67",
-    "total_tx_cycles": "0x0",
-    "total_tx_size": "0x0",
-    "tx_size_limit": "0x7d000"
-  },
-  "id": 42
+    "jsonrpc": "2.0",
+    "result": {
+        "last_txs_updated_at": "0x0",
+        "max_tx_pool_size": "0xaba9500",
+        "min_fee_rate": "0x3e8",
+        "min_rbf_rate": "0x5dc",
+        "orphan": "0x0",
+        "pending": "0x0",
+        "proposed": "0x0",
+        "tip_hash": "0x7caf517c254e50654e8ea596d72785864446aaa4d05fcf5fcd0fbdebf4bd8eb7",
+        "tip_number": "0x1",
+        "total_tx_cycles": "0x0",
+        "total_tx_size": "0x0",
+        "tx_size_limit": "0x7d000",
+        "verify_queue_size": "0x0"
+    },
+    "id": 42
 }
