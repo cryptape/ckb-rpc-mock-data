@@ -56,7 +56,8 @@
     "tx_status": {
       "block_hash": "0xcaedad8ef769d9d287ac93a93c084dae181ee6550d2637fcb2ddd0be6bcc5a70",
       "reason": null,
-      "status": "committed"
+      "status": "committed",
+      "tx_index": null
     }
   },
   "id": 42

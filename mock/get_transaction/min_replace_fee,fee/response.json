@@ -58,7 +58,8 @@
     "tx_status": {
       "block_hash": null,
       "reason": null,
-      "status": "pending"
+      "status": "pending",
+      "tx_index": null
     }
   },
   "id": 42

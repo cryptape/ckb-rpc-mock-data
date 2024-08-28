@@ -7,7 +7,8 @@
     "tx_status": {
       "block_hash": null,
       "reason": "{\"type\":\"Verification\",\"description\":\"Verification failed Script(TransactionScriptError { source: Outputs[1].Type, cause: VM Internal Error: MemWriteOnExecutablePage })\"}",
-      "status": "rejected"
+      "status": "rejected",
+      "tx_index": null
     }
   },
   "id": 42
