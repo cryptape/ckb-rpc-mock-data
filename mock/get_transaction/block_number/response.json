@@ -68,7 +68,7 @@
       "block_number": "0x472",
       "reason": null,
       "status": "committed",
-      "tx_index": null
+      "tx_index": "0x1"
     }
   },
   "id": 42

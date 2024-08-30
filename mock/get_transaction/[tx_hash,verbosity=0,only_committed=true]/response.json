@@ -8,7 +8,7 @@
       "block_hash": "0xba6660d7d6b0f26730b348781e34687f7951ca8bebdbed8c16aa2e727faa0f62",
       "reason": null,
       "status": "committed",
-      "tx_index": null
+      "tx_index": "0x1"
     }
   },
   "id": 42
