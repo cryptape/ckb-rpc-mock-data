@@ -1,0 +1,6 @@
+{
+  "id": 42,
+  "jsonrpc": "2.0",
+  "method": "clear_tx_verify_queue",
+  "params": []
+}
