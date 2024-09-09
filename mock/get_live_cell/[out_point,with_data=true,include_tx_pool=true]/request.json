@@ -1,0 +1,13 @@
+{
+    "id": 42,
+    "jsonrpc": "2.0",
+    "method": "get_live_cell",
+    "params": [
+        {
+            "index": "0x0",
+            "tx_hash": "0x1ed55dfc5703018d5d689e9282c79f44b3923576a8b684e6acfff50357d17a85"
+        },
+        true,
+        true
+    ]
+}
