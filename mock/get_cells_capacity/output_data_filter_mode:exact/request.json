@@ -1,5 +1,5 @@
 {
-  "id": 42,
+  "id": 2,
   "jsonrpc": "2.0",
   "method": "get_cells_capacity",
   "params": [
